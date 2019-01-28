@@ -8,6 +8,7 @@ namespace GitHarjoitus
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hei maailma!");
+            Console.WriteLine(1+1);
         }
     }
 }
